@@ -1,40 +1,110 @@
-<h1 align="center">Hi 👋, I'm Aldan L.M Gehon</h1>
-<h3 align="center">AI & Data Science Engineer | Mobile App Developer</h3>
+# Aldan L.M. Gehon
 
-<p align="center">
-  Building intelligent apps and data-driven solutions — from Flutter mobile apps 
-  to Spark-powered analytics pipelines.
-</p>
+**AI & Data Science Student | Full-Stack & Mobile Developer | Technology Research**
+
+📍 Kanniyakumari, Tamil Nadu, India
+🎓 B.Tech Artificial Intelligence and Data Science (Expected 2027)
+
+📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 📱 +91 7402196243 · 🐙 [GitHub](https://github.com/Aldan05)
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech in AI & Data Science, Anna University
-- 💻 I build cross-platform mobile apps (Flutter/Firebase) and analyze large-scale data (Spark/Scala)
-- 🌱 Currently exploring Machine Learning and Predictive Modelling
-- 📫 Reach me: aldanaldan837@gmail.com
+## About Me
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+I am a B.Tech Artificial Intelligence and Data Science student with hands-on experience in full-stack web and Android application development, gained through two internships and three projects.
 
-### 🔥 Featured Projects
-- 🚌 **[Bus Booking App](#)** — Real-time GPS tracking with Flutter, Firebase & Google Maps API
-- 🎬 **[Movie Rating Analysis](#)** — Large-scale analytics using Apache Spark & SparkSQL
-- 📚 **[Library Management System](#)** — Flutter app integrated with Google Books API
-- ✅ **[Task Management System](#)** — Full-stack PHP/MySQL app with CRUD & auth
+- Break down technical problems and work with databases and APIs
+- Interpret data using Python and Power BI
+- Interested in technology research and business-oriented digital solutions
+- Quick learner who enjoys contributing to a team
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, Java, JavaScript, Dart, PHP, SQL |
+| **Web & App Development** | React, Next.js, Node.js, Express.js, HTML, CSS, Flutter, Android Studio, XML |
+| **Databases & APIs** | MongoDB, MongoDB Atlas, MySQL, Firebase Realtime Database, REST APIs, Telegram Bot API |
+| **Data Analysis & BI** | NumPy, Pandas, Matplotlib, Power BI |
+| **AI & Machine Learning** | Foundational machine-learning concepts, predictive modelling fundamentals |
+| **Tools** | Git, GitHub, VS Code, XAMPP, Socket.io |
+
+---
+
+## Projects
+
+### QueueLess
+**Stack:** React, Node.js, MongoDB, Socket.io
+
+- Designed queue-handling workflows for customers, businesses, staff and administrators
+- Built a Node.js backend with MongoDB for application data
+- Used Socket.io for real-time communication
+- *Shows:* mapping operational workflows to software features across multiple user roles
+
+### Women Safety SOS
+**Stack:** Java, Android, XML, GPS, SMS
+
+- Built an Android application around SOS activation and emergency-response workflows
+- Implemented location access and emergency SMS using Java and XML-based interfaces
+- *Shows:* user-centered thinking and application logic for time-critical scenarios
+
+### TeleVault
+**Stack:** Next.js, Node.js, MongoDB Atlas, Telegram Bot API
+
+- Worked on a cloud-storage architecture combining a web frontend, backend services, database storage and Telegram Bot API integration
+- Configured frontend/backend connectivity and deployment settings
+- *Shows:* system integration, database concepts and API integration
+
+---
+
+## Experience
+
+### Full Stack Development Intern
+**Orvionar Tech Private Limited** · 2 Jun 2026 – 29 Aug 2026
+
+- Contributed to web application assignments covering frontend and backend implementation
+- Worked with database management and API integration
+- Tested and debugged features, investigating errors methodically
+- Gained exposure to the software development lifecycle in a professional setting
+
+### Mobile App Developer Intern
+**AK Info Tech Park** · 1 Month
+
+- Gained practical exposure to cross-platform development using Flutter and Dart
+- Worked with UI layouts and screen navigation
+- Explored Firebase features supporting application data and functionality
+
+---
+
+## Education
+
+| Qualification | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech Artificial Intelligence and Data Science | M. Kumarasamy College of Engineering, Karur (Anna University) | 2023 – 2027 (Expected) | CGPA 6.74 / 10 |
+| Higher Secondary Education | Carmel Jothi Matric Higher Secondary School | 2023 | 64% |
+
+---
+
+## Certifications
+
+- Introduction to Business Intelligence: **IBM**
+- Introduction to Power BI: **Microsoft**
+- Predictive Modelling Fundamentals: **Cognitive Class**
+- Basics of Java: **ScholarHat**
+- Introduction to Cognitive Psychology: **NPTEL** (Score: 93%)
+
+---
+
+## Strengths
+
+`Analytical Thinking` · `Problem-Solving` · `Technical Investigation` · `Data Interpretation` · `Research-Oriented Thinking` · `Product Understanding` · `Collaboration` · `Communication` · `Adaptability` · `Continuous Learning`
+
+---
+
+## Let's Connect
+
+I am open to internships, collaborations and opportunities in full-stack development, data analysis and technology research.
+
+📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 🐙 [github.com/Aldan05](https://github.com/Aldan05)
