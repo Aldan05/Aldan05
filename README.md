@@ -33,6 +33,34 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 
 ---
 
+## AI & Data Science Focus
+
+### Core Concepts I Work With
+| Area | Topics |
+|---|---|
+| **Machine Learning** | Supervised vs. unsupervised learning, regression, classification, clustering, predictive modelling |
+| **Data Preparation** | Data cleaning, exploratory data analysis (EDA), handling missing values, feature engineering |
+| **Model Evaluation** | Train/test split, cross-validation, accuracy, precision, recall, F1-score, overfitting vs. underfitting |
+| **Data Visualization** | Matplotlib charts, Power BI dashboards, turning data into business insights |
+
+### Currently Exploring
+| Area | Topics |
+|---|---|
+| **ML Libraries** | Scikit-learn, TensorFlow / Keras, PyTorch |
+| **Deep Learning** | Neural networks, CNNs for image tasks, RNNs/LSTMs for sequences |
+| **Natural Language Processing** | Text preprocessing, embeddings, sentiment analysis, Transformers |
+| **Generative AI & LLMs** | Prompt engineering, LLM APIs, Retrieval-Augmented Generation (RAG), AI agents |
+| **MLOps Basics** | Serving models through REST APIs (Flask / FastAPI), Git-based versioning, deployment |
+| **Responsible AI** | Bias and fairness, explainability, data privacy, ethical use of AI |
+
+### Where AI Meets My Projects (Ideas I Want to Build)
+- **QueueLess + ML:** predict queue wait times and peak hours from historical data
+- **Women Safety SOS + AI:** smarter risk-area insights and faster alert prioritization
+- **TeleVault + AI:** automatic file tagging and smart search across stored files
+- **AI Chatbot:** an LLM-powered assistant integrated with a web app through REST APIs
+
+---
+
 ## Projects
 
 ### QueueLess
@@ -97,6 +125,20 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 
 ---
 
+## 🗺️ Learning Roadmap
+
+- [x] Python, NumPy, Pandas, Matplotlib
+- [x] Power BI and business intelligence basics
+- [x] Predictive modelling fundamentals
+- [ ] Scikit-learn: build and evaluate end-to-end ML models
+- [ ] Deep learning with TensorFlow / PyTorch
+- [ ] NLP and Transformers
+- [ ] LLM apps: prompt engineering, RAG, AI agents
+- [ ] Deploy an ML model as a REST API
+- [ ] Publish AI/ML projects on GitHub with clear documentation
+
+---
+
 ## Strengths
 
 `Analytical Thinking` · `Problem-Solving` · `Technical Investigation` · `Data Interpretation` · `Research-Oriented Thinking` · `Product Understanding` · `Collaboration` · `Communication` · `Adaptability` · `Continuous Learning`
@@ -105,6 +147,6 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 
 ## Let's Connect
 
-I am open to internships, collaborations and opportunities in full-stack development, data analysis and technology research.
+I am open to internships, collaborations and opportunities in full-stack development, data analysis, AI/ML and technology research.
 
 📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 🐙 [github.com/Aldan05](https://github.com/Aldan05)
