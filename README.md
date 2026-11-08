@@ -5,7 +5,9 @@
 📍 Kanniyakumari, Tamil Nadu, India
 🎓 B.Tech Artificial Intelligence and Data Science (Expected 2027)
 
-📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 📱 +91 7402196243 · 🐙 [GitHub](https://github.com/Aldan05)
+📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 📱 +91 7402196243
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aldan-l-m-gehon/) · 🐙 [GitHub](https://github.com/Aldan05) · 💻 [LeetCode](https://leetcode.com/u/aldan_lm_gehon/) · 🌐 [Portfolio](https://aldan05.github.io/My-portfolio/)
 
 ---
 
@@ -13,8 +15,9 @@
 
 I am a B.Tech Artificial Intelligence and Data Science student with hands-on experience in full-stack web and Android application development, gained through two internships and three projects.
 
-- Break down technical problems and work with databases and APIs
-- Interpret data using Python and Power BI
+- Build and evaluate machine-learning models using Python
+- Work with databases and APIs to connect data, applications and AI features
+- Interpret data and create insights using Python and Power BI
 - Interested in technology research and business-oriented digital solutions
 - Quick learner who enjoys contributing to a team
 
@@ -28,36 +31,50 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 | **Web & App Development** | React, Next.js, Node.js, Express.js, HTML, CSS, Flutter, Android Studio, XML |
 | **Databases & APIs** | MongoDB, MongoDB Atlas, MySQL, Firebase Realtime Database, REST APIs, Telegram Bot API |
 | **Data Analysis & BI** | NumPy, Pandas, Matplotlib, Power BI |
-| **AI & Machine Learning** | Foundational machine-learning concepts, predictive modelling fundamentals |
+| **AI & Machine Learning** | Scikit-learn, TensorFlow, Keras, PyTorch, Jupyter Notebook |
 | **Tools** | Git, GitHub, VS Code, XAMPP, Socket.io |
 
 ---
 
-## AI & Data Science Focus
+## AI & Data Science Skills
 
-### Core Concepts I Work With
-| Area | Topics |
-|---|---|
-| **Machine Learning** | Supervised vs. unsupervised learning, regression, classification, clustering, predictive modelling |
-| **Data Preparation** | Data cleaning, exploratory data analysis (EDA), handling missing values, feature engineering |
-| **Model Evaluation** | Train/test split, cross-validation, accuracy, precision, recall, F1-score, overfitting vs. underfitting |
-| **Data Visualization** | Matplotlib charts, Power BI dashboards, turning data into business insights |
+### Machine Learning
+- Supervised learning: linear and logistic regression, decision trees, random forests, KNN, SVM
+- Unsupervised learning: K-Means clustering, PCA (dimensionality reduction)
+- Predictive modelling: building models from data and testing them on unseen data
+- Model evaluation: train/test split, cross-validation, accuracy, precision, recall, F1-score, confusion matrix, ROC-AUC
+- Handling overfitting and underfitting, and hyperparameter tuning
 
-### Currently Exploring
-| Area | Topics |
-|---|---|
-| **ML Libraries** | Scikit-learn, TensorFlow / Keras, PyTorch |
-| **Deep Learning** | Neural networks, CNNs for image tasks, RNNs/LSTMs for sequences |
-| **Natural Language Processing** | Text preprocessing, embeddings, sentiment analysis, Transformers |
-| **Generative AI & LLMs** | Prompt engineering, LLM APIs, Retrieval-Augmented Generation (RAG), AI agents |
-| **MLOps Basics** | Serving models through REST APIs (Flask / FastAPI), Git-based versioning, deployment |
-| **Responsible AI** | Bias and fairness, explainability, data privacy, ethical use of AI |
+### Data Science & Analytics
+- Data collection, cleaning and preprocessing with Pandas and NumPy
+- Exploratory data analysis (EDA) and feature engineering
+- Data visualization with Matplotlib and interactive dashboards in Power BI
+- Business intelligence concepts and turning data into insights
+- SQL queries for data extraction and analysis
 
-### Where AI Meets My Projects (Ideas I Want to Build)
-- **QueueLess + ML:** predict queue wait times and peak hours from historical data
-- **Women Safety SOS + AI:** smarter risk-area insights and faster alert prioritization
-- **TeleVault + AI:** automatic file tagging and smart search across stored files
-- **AI Chatbot:** an LLM-powered assistant integrated with a web app through REST APIs
+### Deep Learning
+- Neural network fundamentals: layers, activation functions, loss functions, backpropagation, optimizers
+- Convolutional Neural Networks (CNNs) for image tasks
+- Recurrent models (RNN, LSTM) for sequence data
+- Building and training models with TensorFlow / Keras and PyTorch
+
+### Natural Language Processing
+- Text preprocessing: tokenization, stop-word removal, stemming and lemmatization
+- Text representation: Bag of Words, TF-IDF, word embeddings
+- Sentiment analysis and text classification
+- Transformer architecture basics
+
+### Generative AI & LLMs
+- Large Language Models (LLMs) and how they work
+- Prompt engineering techniques
+- Working with LLM APIs
+- Retrieval-Augmented Generation (RAG) and AI agents
+
+### AI Deployment & Responsible AI
+- Serving ML models through REST APIs
+- Connecting AI models to web and mobile applications
+- Version control for ML projects with Git and GitHub
+- Bias and fairness, explainability, data privacy and ethical use of AI
 
 ---
 
@@ -125,20 +142,6 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 
 ---
 
-## 🗺️ Learning Roadmap
-
-- [x] Python, NumPy, Pandas, Matplotlib
-- [x] Power BI and business intelligence basics
-- [x] Predictive modelling fundamentals
-- [ ] Scikit-learn: build and evaluate end-to-end ML models
-- [ ] Deep learning with TensorFlow / PyTorch
-- [ ] NLP and Transformers
-- [ ] LLM apps: prompt engineering, RAG, AI agents
-- [ ] Deploy an ML model as a REST API
-- [ ] Publish AI/ML projects on GitHub with clear documentation
-
----
-
 ## Strengths
 
 `Analytical Thinking` · `Problem-Solving` · `Technical Investigation` · `Data Interpretation` · `Research-Oriented Thinking` · `Product Understanding` · `Collaboration` · `Communication` · `Adaptability` · `Continuous Learning`
@@ -149,4 +152,6 @@ I am a B.Tech Artificial Intelligence and Data Science student with hands-on exp
 
 I am open to internships, collaborations and opportunities in full-stack development, data analysis, AI/ML and technology research.
 
-📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com) · 🐙 [github.com/Aldan05](https://github.com/Aldan05)
+📧 [aldanaldan837@gmail.com](mailto:aldanaldan837@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aldan-l-m-gehon/) · 🐙 [GitHub](https://github.com/Aldan05) · 💻 [LeetCode](https://leetcode.com/u/aldan_lm_gehon/) · 🌐 [Portfolio](https://aldan05.github.io/My-portfolio/)
